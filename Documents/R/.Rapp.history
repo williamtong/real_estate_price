@@ -1,0 +1,29 @@
+http://www.openintro.org/stat/data/present.R
+http:/www.openintro.org/stat/data/present.R
+http:www.openintro.org/stat/data/present.R
+www.openintro.org/stat/data/present.R
+http://www.openintro.org/stat/data/present.R
+ls
+getwd()
+getwd()
+myfunction <-function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+"myfunction"
+ls()
+myfunction()
+ls(0)
+ls()
+source("myfunction.R")
+ls()
+source("myfunction.R")
+ls()
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
+second(4)
